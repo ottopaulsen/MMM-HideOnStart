@@ -1,0 +1,17 @@
+{
+  "name": "mmm-hideonstart",
+  "version": "1.0.0",
+  "description": "Hide other MagicMirror modules when the mirror starts",
+  "main": "MMM-HideOnStart.js",
+  "author": "Otto Paulsen",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ottopaulsen/MMM-HideOnStart.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "magicmirror",
+    "magicmirror-module",
+    "smarthome"
+  ]
+}
